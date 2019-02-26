@@ -1,0 +1,47 @@
+body {
+  color: rgb(150,0,100);
+  font-family: arial;
+  margin: 20px;
+}
+
+div {
+  min-height: 10vh;
+  min-width: 100vh;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+h1 {
+  font-size: 5em
+}
+
+h2 {
+  font-size: 2.5em
+}
+
+img {
+  padding: 60px;
+  border-radius: 150px;
+}
+
+ol {
+  list-style: none;
+  padding: 0;
+  font-style: italic;
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 10%;
+  font-size: 3em;
+}
+
+p {
+  width: 40%;
+  margin: 10vh 10vw;
+  font-size: 2em;
+}
+
+a {
+  color: rgb(0,0,0)
+}
